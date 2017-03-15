@@ -11,7 +11,7 @@ namespace PlayProject.Controllers {
         }
 
         public ActionResult About() {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Hello my name is Rachel.";
 
             return View();
         }
