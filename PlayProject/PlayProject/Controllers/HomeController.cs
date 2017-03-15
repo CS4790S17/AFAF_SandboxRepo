@@ -21,5 +21,9 @@ namespace PlayProject.Controllers {
 
             return View();
         }
+
+		private String testString() {
+			return "I am a test!";
+		}
     }
 }
